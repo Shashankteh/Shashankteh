@@ -28,33 +28,25 @@
 
 ```javascript
 const shashank = {
-  name     : "Shashank Goyal",
-  role     : "Full Stack Developer & Cybersecurity Enthusiast",
-  location : "Jaipur, Rajasthan 🇮🇳",
+  name: "Shashank Goyal",
+  role: "Full Stack Developer & Cybersecurity Enthusiast",
+  location: "Jaipur, Rajasthan 🇮🇳",
   education: "BCA Graduate 2025 — JK Lakshmipat University",
 
   currentlyBuilding: [
-    "🏥 MediQueue      — Smart Hospital OPD Queue System",
-    "🛡️ SafeZone AI    — AI-Powered Safety Platform",
-    "🎯 MindTarget     — Focus Chrome Extension",
-    "🌐 Portfolio v5   — Three.js + GSAP Aurora UI",
+    "🏥 MediQueue — Smart Hospital OPD Queue System",
+    "🛡️ SafeZone AI — AI-Powered Safety Platform",
+    "🎯 MindTarget — Focus Chrome Extension",
+    "🌐 Portfolio v5 — Three.js + GSAP Aurora UI"
   ],
 
-  techStack: {
-    frontend   : ["Next.js", "React", "TypeScript", "Three.js", "GSAP", "Tailwind"],
-    backend    : ["Node.js", "Express", "Prisma", "REST APIs"],
-    database   : ["Supabase", "PostgreSQL", "MongoDB", "Firebase"],
-    cloud      : ["Vercel", "Oracle Cloud HCM", "Twilio"],
-    security   : ["Network Scanning", "ESP32 Marauder", "Port Analysis"],
-    extensions : ["Chrome MV3", "Service Workers", "chrome.storage", "chrome.alarms"],
-  },
-
-  openTo  : ["Full-Time", "Freelance", "Internship"],
-  funFact : "Built a Smart Room with RFID & a Chrome Extension from scratch 🚀",
+  openTo: ["Full-Time", "Freelance", "Internship"],
+  
+  funFact: "Built a Smart Room with RFID & Chrome Extension from scratch 🚀"
 };
+
 ```
 
----
 
 ## 🚀 Tech Stack
 
