@@ -26,11 +26,13 @@
 
 ## 👨‍💻 About Me
 
-🎓 **BCA Graduate 2025** from JK Lakshmipat University, Jaipur
-💼 Currently open to **Full-time · Freelance · Internships**
-🔭 Building **SafeZone AI** · **MindTarget Chrome Extension** · **Portfolio v5**
-🛡️ Passionate about **Cybersecurity**, **Full Stack Dev**, and **IoT**
-⚡ Fun fact: *Built a Smart Room with RFID and a Chrome Extension from scratch!*
+- 🎓 **BCA Graduate 2025** — JK Lakshmipat University, Jaipur
+- 💼 Open to **Full-time · Freelance · Internships**
+- 🔭 Building **SafeZone AI** · **MindTarget Chrome Extension** · **Portfolio v5**
+- 🛡️ Passionate about **Cybersecurity**, **Full Stack Dev** and **IoT**
+- ⚡ Fun fact: *Built a Smart Room with RFID and a Chrome Extension from scratch!*
+
+<br/>
 
 ```javascript
 const shashank = {
