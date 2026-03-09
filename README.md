@@ -26,11 +26,17 @@
 
 ## 👨‍💻 About Me
 
+🎓 **BCA Graduate 2025** from JK Lakshmipat University, Jaipur
+💼 Currently open to **Full-time · Freelance · Internships**
+🔭 Building **SafeZone AI** · **MindTarget Chrome Extension** · **Portfolio v5**
+🛡️ Passionate about **Cybersecurity**, **Full Stack Dev**, and **IoT**
+⚡ Fun fact: *Built a Smart Room with RFID and a Chrome Extension from scratch!*
+
 ```javascript
 const shashank = {
   name     : "Shashank Goyal",
   location : "Jaipur, Rajasthan, India",
-  education: "BCA Graduate 2025",
+  education: "BCA Graduate 2025 — JK Lakshmipat University",
 
   roles: [
     "Full Stack Developer",
@@ -39,7 +45,11 @@ const shashank = {
     "Cybersecurity Enthusiast"
   ],
 
-  currentlyBuilding: "SafeZone AI + MindTarget Chrome Extension + Portfolio v5",
+  currentlyBuilding: [
+    "SafeZone AI 🛡️",
+    "MindTarget Chrome Extension 🎯",
+    "Portfolio v5 🌐"
+  ],
 
   openTo: ["Full-time", "Freelance", "Internships"],
 
@@ -53,7 +63,7 @@ const shashank = {
     tools     : ["Git", "Linux", "Blender 3D", "Adobe Suite"]
   },
 
-  funFact: "Built a Smart Room with RFID and a Chrome Extension from scratch!"
+  funFact: "Built a Smart Room with RFID and a Chrome Extension from scratch! 🚀"
 };
 ```
 
@@ -114,6 +124,18 @@ const shashank = {
 
 <div align="center">
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankteh&bg_color=0d0f1a&color=7C3AED&line=F43F5E&point=F59E0B&area=true&area_color=7C3AED&hide_border=true&radius=12"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shashankteh/Shashankteh/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shashankteh/Shashankteh/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Shashankteh/Shashankteh/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
